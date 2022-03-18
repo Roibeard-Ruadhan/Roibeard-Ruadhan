@@ -18,13 +18,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Roibeard's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Roibeard-Ruadhan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
 [website]: https://roibeard-ruadhan.github.io/Roibeard-Ruadhan-Photography/
 [twitter]: https://twitter.com
 [instagram]: https://instagram.com/

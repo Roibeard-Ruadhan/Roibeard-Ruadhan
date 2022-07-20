@@ -16,7 +16,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50px" height="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL logo" height="50px" width="50px" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django logo" width="50px" height="50px" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django logo" width="50px" height="50px">
 
 
 <br>

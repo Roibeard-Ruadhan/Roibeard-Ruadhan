@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Photographer and Meditator!
 
-### Languages and Tools:
+-  ### **Languages  and Tools**:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px"> 
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-- ### **Current learning paths**
+- ### **Current learning**
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />
 
 

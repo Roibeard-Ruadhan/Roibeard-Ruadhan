@@ -9,7 +9,7 @@
 
 <br>
 
-- ### **Current learning**
+- ### **Currently learning**
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" height="50px" width="50px" />
 
 

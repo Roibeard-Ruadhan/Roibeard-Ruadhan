@@ -17,6 +17,5 @@
 
 ## Contact
 Photography Webiste[website]: https://roibeard-ruadhan.github.io/Roibeard-Ruadhan-Photography/
-[twitter]: https://twitter.com
-[<img src="Instagram-Icon.png" width="50px" height="50px" >]: https://instagram.com/
-[linkedin]: https://linkedin.com/
+[<img src="Instagram-Icon.png" width="50px" height="50px" >](https://instagram.com/)
+[<img src="photography-img" width="50px" height="50px" >]([https://instagram.com/](https://roibeard-ruadhan.github.io/Roibeard-Ruadhan-Photography/))
